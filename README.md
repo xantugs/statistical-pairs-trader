@@ -1,7 +1,7 @@
 # Statistical Pairs Trading Engine
 
 ## Performance
-![Strategy Result](demo_result.png)
+![Strategy Result](demo_sample.png)
 *Backtest showing Spread Z-Score (Top) and Cumulative PnL (Bottom).*
 
 ## Overview
